@@ -9,7 +9,7 @@ print ("\033[1;31m|########|  |##|      |##|  /##/      \##\  |########|  |#####
 
 try:
     bomb_email = input("Enter Email address on Whom you want to perfom this attack: ")
-    email = input("Enter your gmail_address:")
+    email = input("Kluke174@gmail.com:")
     password = input("Enter your gmail_password:")
     message = input("Enter Message:")
     counter = int(input("How many message you want to send?:"))
